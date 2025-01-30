@@ -1,0 +1,6 @@
+with open("codingal3.txt",'r') as file:
+    print(file.read())
+file.close()
+
+folder=open("codingal1.txt",'x')
+folder.close()
